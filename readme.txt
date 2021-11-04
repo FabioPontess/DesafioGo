@@ -1,7 +1,7 @@
 Nome da imagem:
-fabiopontess/codeeducation
+fabiopontess/desafio1
 
 Sugestão de comando:
 
-docker run --rm --name desafio1 fabiopontess/codeeducation
+docker run --rm --name desafio1 fabiopontess/desafio1
 
